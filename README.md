@@ -1,3 +1,3 @@
 # Team6
- MSIS
+MSIS
 mcmclaug1668
