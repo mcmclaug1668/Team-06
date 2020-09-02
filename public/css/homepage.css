@@ -1,0 +1,20 @@
+.centered {
+  position: static;
+  width: 100%;
+
+}
+
+.left {
+  position: static;
+  width: 50%;
+  float: left;
+  height: 100%;
+
+}
+
+.right {
+  position: static;
+  width: 50%;
+  float: left;
+  height: 100%;
+}
